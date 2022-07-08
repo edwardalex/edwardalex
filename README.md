@@ -8,9 +8,10 @@
 [![Instagram Badge](https://img.shields.io/badge/-olooedwards-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/olooedwards/)](https://www.instagram.com/olooedwards/)
 [![Gmail Badge](https://img.shields.io/badge/-olooedwards69@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olooedwards69@gmail.com)](mailto:olooedwards69@gmail.com)
 ---
-<!--
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=edwardalex&show_icons=true&theme=radical)
 ---
+<!--
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardalex&langs_count=8)
 ---
 -->
